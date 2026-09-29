@@ -1,0 +1,6 @@
+{
+  "name": "KASE TSP Registration & Accreditation Portal",
+  "description": "Kerala Academy for Skills Excellence (KASE) Training Service Provider (TSP) registration, DSDP scrutiny, accreditation, inspection, continuous monitoring, and compliance platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
